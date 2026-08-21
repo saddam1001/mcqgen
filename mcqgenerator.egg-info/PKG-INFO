@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.0.1
+Author: Md Saddam
+Author-email: saddam1001.ms@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: langchain-community
+Requires-Dist: langchain-openai
